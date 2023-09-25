@@ -7,6 +7,7 @@
 
 - **MOD中文介绍、下载链接和外挂汉化工具**：[【正义之怒】内容扩展型MOD收集计划](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN)，看到这里写的**新职业、新专长和新法术**之类在这个网站里 Ctrl+F 搜索文本找到对应MOD。
 - **MOD安装方法**：[如何为拥王者或正义之怒安装MOD](https://github.com/1onepower/KM-WotR_Modding_Wiki/blob/main/%E4%B8%AD%E6%96%87%E7%89%88.md)
+- 临时分享的 ACTestingGrounds 的完整汉化文件 [ACTestingGrounds.zip](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/files/12715542/ACTestingGrounds.zip)。配合QL汉化使用。
 
 **所谓完全洗点以后还要RP向，这个又是什么意思**？
 
@@ -322,8 +323,14 @@
 
 ### 爱露莎蕾
 
-保持谍报专家拿重弩，用神话专长-神话弩箭训练来做到敏上伤【来自HomebrewArchetypes的子MOD】，加上TTT恶魔宿敌合并到异界，伤害和AB瞬间就起来了。
+保持谍报专家拿重弩，用神话专长-神话弩箭训练来做到敏上伤【来自HomebrewArchetypes的子MOD】，加上TTT恶魔宿敌合并到异界，伤害和AB瞬间就起来了。注意 ACTestingGround 会将爱露莎蕾的职业改成游荡者里的间谍专家，这样比原版游侠弱了（有表人直接退化成无表游荡者），自己洗点整回来吧。
 
 ### 加钱哥
 
-【HomebrewArchetypes】的子MOD【ACTestingGround】，会改加钱哥职业为专属职业，给高等武器专攻+武器专精和高等武器专精。
+#### 契约杀手
+
+**简单介绍**：能短时间体上防+自带四环法表+送高等武器专攻、武器专精和高等武器专精（杀手天赋换的），比普通杀手强了很多，也不会过于脆弱了。还能跟异嗣杀手混合变体，变成契约杀手/异嗣杀手，对抗大体型敌人有额外研究目标加成。跟加钱哥的画风非常像。武器思路为要么双持手斧、要么双手巨斧（坟中歌者）。
+
+> 核心MOD：
+>
+> - 【HomebrewArchetypes】和其子MOD【ACTestingGround】
