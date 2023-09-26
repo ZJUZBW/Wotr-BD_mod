@@ -73,6 +73,8 @@
 
 **简要介绍**：一切元素系转为寒冷，DC高、CL高、伤害高，相当于原本小烬加点的超级加强版。
 
+**部分玩法和装备介绍可以参考此贴**：[（build推荐）最强咒法塑能师，不服来辩](https://tieba.baidu.com/p/8325404298)
+
 > 核心MOD：
 >
 > - [TabletopTweaks-Base](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN#TabletopTweaks-Base)
