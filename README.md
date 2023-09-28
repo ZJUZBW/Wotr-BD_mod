@@ -7,7 +7,7 @@
 
 - **MOD中文介绍、下载链接和外挂汉化工具**：[【正义之怒】内容扩展型MOD收集计划](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN)，看到这里写的**新职业、新专长和新法术**之类在这个网站里 Ctrl+F 搜索文本找到对应MOD。
 - **MOD安装方法**：[如何为拥王者或正义之怒安装MOD](https://github.com/1onepower/KM-WotR_Modding_Wiki/blob/main/%E4%B8%AD%E6%96%87%E7%89%88.md)
-- 临时分享的 ACTestingGrounds 的完整汉化文件 [ACTestingGrounds.zip](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/files/12715542/ACTestingGrounds.zip)。配合QL汉化使用。
+- 临时分享的 ACTestingGrounds 的完整汉化文件 [ACTestingGrounds.zip](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/files/12715542/ACTestingGrounds.zip)。配合[MOD外挂汉化工具QuickLocalization](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN#mod外挂汉化工具quicklocalization)使用。
 
 **所谓完全洗点以后还要RP向，这个又是什么意思**？
 
