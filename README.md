@@ -72,13 +72,15 @@
 
 #### 6萨满10冬巫1混血术士3博学士
 
+**更新日期**：2023-10-3
+
 **简要介绍**：一切元素系转为寒冷，DC高、CL高、伤害高，相当于原本小烬加点的超级加强版。
 
 **部分玩法和装备介绍可以参考此贴**：[（build推荐）最强咒法塑能师，不服来辩](https://tieba.baidu.com/p/8325404298)
 
 > 核心MOD：
 >
-> - [TabletopTweaks-Base](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN#TabletopTweaks-Base)
+> - [TabletopTweaks-Base](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN#TabletopTweaks-Base) 新增神话能力【能量转换】（相当于获得术士四个元素血脉的能量转换）和【元素链接】（选择一个元素，使用带此元素描述符的法术时，可以将神话等级附加到施法者等级上）
 > - [HomebrewArchetypes ](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN#HomebrewArchetypes)和 他的子MOD【AC】 
 > - ~~[CharacterOptionsPlus](https://github.com/WittleWolfie/CharacterOptionsPlus) ---新增奥法血统（又称悠远血脉）~~
 >
@@ -131,7 +133,7 @@
 后面补法术穿透，主要是考虑到这个BD的装备加法穿比较少，而且TTT修复了结盟施法者，导致法穿不一定够用，如果够用的话就无所谓了。
 ```
 
-**神话加点**：1连锁施法、2反应施术、3偏好超魔（增效）、4偏好超魔（强效）、5第二血脉（白龙）、6精通先攻（神话）、7偏好超魔（强化）、89学派掌握（塑能）/自选
+**神话加点**：1~~连锁施法~~【等BUG修复以后，队友才能选这个】、2反应施术、3偏好超魔（增效）、4偏好超魔（强效）、5第二血脉（白龙）、6精通先攻（神话）、7偏好超魔（强化）、89学派掌握（塑能）/自选；现在可以选能量转换和元素链接来继续增强施法者等级，最终的效果非常恐怖。
 
 **关键装备配置**：
 
